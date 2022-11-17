@@ -9,12 +9,12 @@ Working With:
 <img height="32" width="32" src="https://cdn.simpleicons.org/unity/purple"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/unrealengine/purple"/><br/>
 My Laptop:
-<img height="32" width="32" src="https://cdn.simpleicons.org/lenovo/purple"/>
+<a href="https://www.lenovo.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/lenovo/purple"/><a/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/thinkpad/purple"/><br/>
 My Music Platform:
-<a href="https://soundcloud.com/user-131706000" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/soundcloud/purple"/><a/><br/>
+<a href="https://soundcloud.com/user-131706000"><img height="32" width="32" src="https://cdn.simpleicons.org/soundcloud/purple"/><a/><br/>
 My Browser:
-<img height="32" width="32" src="https://cdn.simpleicons.org/brave/purple"/><br/>
+<a href="https://brave.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/brave/purple"/><a/><br/>
 My Favorite Game:
 <img height="32" width="32" src="https://cdn.simpleicons.org/undertale/purple"/><br/>
 <!--
