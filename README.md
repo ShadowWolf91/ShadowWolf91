@@ -10,8 +10,9 @@ Working With:
 My Laptop:
 <a href="https://www.lenovo.com/us/en/"><img height="16" width="16" src="https://cdn.simpleicons.org/lenovo/purple"/><a/>
 <a href="https://www.lenovo.com/us/en/c/laptops/thinkpad/"><img height="16" width="16" src="https://cdn.simpleicons.org/thinkpad/purple"/><a/><br/>
-My Music Platform:
-<a href="https://soundcloud.com/user-131706000"><img height="16" width="16" src="https://cdn.simpleicons.org/soundcloud/purple"/><a/><br/>
+My Music Platforms:
+<a href="https://soundcloud.com/user-131706000"><img height="16" width="16" src="https://cdn.simpleicons.org/soundcloud/purple"/><a/>
+<a href=""><img height="16" width="16" src="https://cdn.simpleicons.org/spotify/purple"/><a/><br/>
 My Browser:
 <a href="https://brave.com/"><img height="16" width="16" src="https://cdn.simpleicons.org/brave/purple"/><a/><br/>
 My Favorite Game:
