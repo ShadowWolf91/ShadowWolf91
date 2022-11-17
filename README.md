@@ -8,8 +8,8 @@ Working With:
 <a href="https://unity.com"><img height="16" width="16" src="https://cdn.simpleicons.org/unity/aqua"/><a/>
 <a href="https://www.unrealengine.com/en-US"><img height="16" width="16" src="https://cdn.simpleicons.org/unrealengine/aqua"/><br/><a/>
 My Laptop:
-<a href="https://www.lenovo.com/us/en/"><img height="24" width="24" src="https://cdn.simpleicons.org/lenovo/aqua"/><a/>
-<a href="https://www.lenovo.com/us/en/c/laptops/thinkpad/"><img height="24" width="24" src="https://cdn.simpleicons.org/thinkpad/aqua"/><a/><br/>
+<a href="https://www.lenovo.com/us/en/"><img height="28" width="28" src="https://cdn.simpleicons.org/lenovo/aqua"/><a/>
+<a href="https://www.lenovo.com/us/en/c/laptops/thinkpad/"><img height="28" width="28" src="https://cdn.simpleicons.org/thinkpad/aqua"/><a/><br/>
 My Music Platforms:
 <a href="https://soundcloud.com/user-131706000"><img height="16" width="16" src="https://cdn.simpleicons.org/soundcloud/aqua"/><a/>
 <a href=""><img height="16" width="16" src="https://cdn.simpleicons.org/spotify/aqua"/><a/><br/>
