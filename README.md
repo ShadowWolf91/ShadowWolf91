@@ -1,11 +1,10 @@
 ![Header](https://github.com/ShadowWolf91/ShadowWolf91/blob/main/header.png)
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm+a+3D+and+Unity+programmer)
 Working With:
-<img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop/purple"/>
+<a href="https://www.adobe.com/products/photoshop.html"><img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop/purple"/><a/>
 <a href="https://www.autodesk.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/autodesk/purple"/><a/>
 <a href="https://www.blender.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/blender/purple"/><a/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/csharp/purple"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/purple"/>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="32" width="32" src="https://cdn.simpleicons.org/csharp/purple"/><a/>
 <a href="https://unity.com"><img height="32" width="32" src="https://cdn.simpleicons.org/unity/purple"/><a/>
 <a href="https://www.unrealengine.com/en-US"><img height="32" width="32" src="https://cdn.simpleicons.org/unrealengine/purple"/><br/><a/>
 My Laptop:
