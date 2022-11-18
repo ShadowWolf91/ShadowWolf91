@@ -10,7 +10,7 @@ Working With:
 My Laptop:
 <a href="https://www.lenovo.com/us/en/c/laptops/thinkpad/"><img height="24" width="24" src="https://cdn.simpleicons.org/thinkpad/aqua"/><a/><br/>
 My Music Platform:
-<a href="https://soundcloud.com/user-131706000"><img height="16" width="16" src="https://cdn.simpleicons.org/soundcloud/aqua"/><a/>
+<a href="https://soundcloud.com/user-131706000"><img height="16" width="16" src="https://cdn.simpleicons.org/soundcloud/aqua"/><a/><br/>
 My Browser:
 <a href="https://brave.com/"><img height="16" width="16" src="https://cdn.simpleicons.org/brave/aqua"/><a/><br/>
 My Favorite Game:
