@@ -9,9 +9,8 @@ Working With:
 <a href="https://www.unrealengine.com/en-US"><img height="16" width="16" src="https://cdn.simpleicons.org/unrealengine/aqua"/><br/><a/>
 My Laptop:
 <a href="https://www.lenovo.com/us/en/c/laptops/thinkpad/"><img height="24" width="24" src="https://cdn.simpleicons.org/thinkpad/aqua"/><a/><br/>
-My Music Platforms:
+My Music Platform:
 <a href="https://soundcloud.com/user-131706000"><img height="16" width="16" src="https://cdn.simpleicons.org/soundcloud/aqua"/><a/>
-<a href="https://www.spotify.com/de/account/overview/?utm_source=spotify&utm_medium=menu&utm_campaign=your_account"><img height="16" width="16" src="https://cdn.simpleicons.org/spotify/aqua"/><a/><br/>
 My Browser:
 <a href="https://brave.com/"><img height="16" width="16" src="https://cdn.simpleicons.org/brave/aqua"/><a/><br/>
 My Favorite Game:
