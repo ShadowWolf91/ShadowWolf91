@@ -1,12 +1,15 @@
 ![Header](https://github.com/ShadowWolf91/ShadowWolf91/blob/main/header.png)
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm+a+3D+and+Unity+programmer)
 Working With:
-<a href="https://www.autodesk.com/"><img height="16" width="16" src="https://cdn.simpleicons.org/postgresql/aqua"/><a/>
-<a href="https://www.autodesk.com/"><img height="16" width="16" src="https://cdn.simpleicons.org/c/aqua"/><img height="16" width="16" src="https://cdn.simpleicons.org/sharp/aqua"/><a/>
+<a href="https://www.postgresql.org/"><img height="16" width="16" src="https://cdn.simpleicons.org/postgresql/aqua"/><a/>
+<a href="https://dotnet.microsoft.com/ru-ru/languages/csharp"><img height="16" width="16" src="https://cdn.simpleicons.org/c/aqua"/><img height="16" width="16" src="https://cdn.simpleicons.org/sharp/aqua"/><a/>
+<a href="https://dotnet.microsoft.com/en-us/"><img height="16" width="16" src="https://cdn.simpleicons.org/dotnet/aqua"/><a/>
+<a href="https://www.python.org/"><img height="16" width="16" src="https://cdn.simpleicons.org/python/aqua"/><a/>
+<a href="https://www.java.com/en/"><img height="16" width="16" src="https://cdn.simpleicons.org/coffeescript/aqua"/><a/>
+<a href="https://kotlinlang.org/"><img height="16" width="16" src="https://cdn.simpleicons.org/kotlin/aqua"/><a/>
 <a href="https://www.autodesk.com/"><img height="16" width="16" src="https://cdn.simpleicons.org/autodesk/aqua"/><a/>
 <a href="https://www.blender.org/"><img height="16" width="16" src="https://cdn.simpleicons.org/blender/aqua"/><a/>
 <a href="https://unity.com"><img height="16" width="16" src="https://cdn.simpleicons.org/unity/aqua"/><a/>
-<a href="https://www.unrealengine.com/en-US"><img height="16" width="16" src="https://cdn.simpleicons.org/unrealengine/aqua"/><br/><a/>
 My Laptops:
 <a href="https://www.lenovo.com/us/en/"><img height="24" width="24" src="https://cdn.simpleicons.org/lenovo/aqua"/><a/>
 <a href="https://www.hp.com/us-en/home.html"><img height="16" width="16" src="https://cdn.simpleicons.org/hp/aqua"/><a/>
