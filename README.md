@@ -7,7 +7,7 @@ Working With:
 <a href="https://www.python.org/"><img height="16" width="16" src="https://cdn.simpleicons.org/python/aqua"/><a/>
 <a href="https://www.java.com/en/"><img height="16" width="16" src="https://cdn.simpleicons.org/coffeescript/aqua"/><a/>
 <a href="https://kotlinlang.org/"><img height="16" width="16" src="https://cdn.simpleicons.org/kotlin/aqua"/><a/>
-<a href="https://www.autodesk.com/"><img height="16" width="16" src="https://cdn.simpleicons.org/autodesk/aqua"/><a/>
+<a href="https://autodesk.by/index.php/en/"><img height="16" width="16" src="https://cdn.simpleicons.org/autodesk/aqua"/><a/>
 <a href="https://www.blender.org/"><img height="16" width="16" src="https://cdn.simpleicons.org/blender/aqua"/><a/>
 <a href="https://unity.com"><img height="16" width="16" src="https://cdn.simpleicons.org/unity/aqua"/><a/><br/>
 My Laptops:
