@@ -7,7 +7,7 @@ Working With:
 <a href="https://www.unrealengine.com/en-US"><img height="16" width="16" src="https://cdn.simpleicons.org/unrealengine/aqua"/><br/><a/>
 My Laptops:
 <a href="https://www.lenovo.com/us/en/"><img height="24" width="24" src="https://cdn.simpleicons.org/lenovo/aqua"/><a/>
-<a href="https://www.hp.com/us-en/home.html"><img height="24" width="24" src="https://cdn.simpleicons.org/hp/aqua"/><a/>
+<a href="https://www.hp.com/us-en/home.html"><img height="16" width="16" src="https://cdn.simpleicons.org/hp/aqua"/><a/>
 <a href="https://www.acer.com/us-en"><img height="24" width="24" src="https://cdn.simpleicons.org/acer/aqua"/><a/><br/>
 My Music Platforms:
 <a href="https://open.spotify.com/user/5418jz8csd3gfhh3q1k51iutk"><img height="16" width="16" src="https://cdn.simpleicons.org/spotify/aqua"/><a/>
