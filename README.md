@@ -1,10 +1,8 @@
 ![Header](https://github.com/ShadowWolf91/ShadowWolf91/blob/main/header.png)
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm+a+3D+and+Unity+programmer)
 Working With:
-<a href="https://www.adobe.com/products/photoshop.html"><img height="16" width="16" src="https://cdn.simpleicons.org/adobephotoshop/aqua"/><a/>
 <a href="https://www.autodesk.com/"><img height="16" width="16" src="https://cdn.simpleicons.org/autodesk/aqua"/><a/>
 <a href="https://www.blender.org/"><img height="16" width="16" src="https://cdn.simpleicons.org/blender/aqua"/><a/>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="16" width="16" src="https://cdn.simpleicons.org/csharp/aqua"/><a/>
 <a href="https://unity.com"><img height="16" width="16" src="https://cdn.simpleicons.org/unity/aqua"/><a/>
 <a href="https://www.unrealengine.com/en-US"><img height="16" width="16" src="https://cdn.simpleicons.org/unrealengine/aqua"/><br/><a/>
 My Laptop:
