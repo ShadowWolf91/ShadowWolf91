@@ -1,6 +1,5 @@
 ![Header](https://github.com/ShadowWolf91/ShadowWolf91/blob/main/header.png)
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&pause=1000&width=835&color=%2336BCF7&lines=Hi+there+everyone,+I'm+a+junior+programmer+that+working+with+languages+below)
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9000&pause=1000&width=835&color=%2336BCF7&lines=And+also+I'm+a+3D-artist+and+musician+beginner)
 Working With:
 <a href="https://www.postgresql.org/"><img height="16" width="16" src="https://cdn.simpleicons.org/postgresql/aqua"/><a/>
 <a href="https://dotnet.microsoft.com/ru-ru/languages/csharp"><img height="16" width="16" src="https://cdn.simpleicons.org/c/aqua"/><img height="16" width="16" src="https://cdn.simpleicons.org/sharp/aqua"/><a/>
@@ -15,6 +14,7 @@ My Laptops:
 <a href="https://www.lenovo.com/us/en/"><img height="24" width="24" src="https://cdn.simpleicons.org/lenovo/aqua"/><a/>
 <a href="https://www.hp.com/us-en/home.html"><img height="16" width="16" src="https://cdn.simpleicons.org/hp/aqua"/><a/>
 <a href="https://www.acer.com/us-en"><img height="24" width="24" src="https://cdn.simpleicons.org/acer/aqua"/><a/><br/>
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&pause=1000&width=835&color=%2336BCF7&lines=And+also+I'm+a+3D-artist+and+musician+beginner)
 My Music Platforms:
 <a href="https://open.spotify.com/user/5418jz8csd3gfhh3q1k51iutk"><img height="16" width="16" src="https://cdn.simpleicons.org/spotify/aqua"/><a/>
 <a href="https://soundcloud.com/user-131706000"><img height="16" width="16" src="https://cdn.simpleicons.org/soundcloud/aqua"/><a/>
